@@ -1,2 +1,2 @@
 # WeatherPy
-homework 6
+homework 6 - python requests, APIs, JSON traversals, matplot 
